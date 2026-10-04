@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+pymupdf
+python-docx
+sqlalchemy
+psycopg[binary]
